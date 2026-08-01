@@ -17,7 +17,6 @@ Beyond energy systems, I have also worked on AI agents for software debugging an
 - **Sustainable Transportation:** battery management systems and thermal management for electrified vehicles.
 - **Grid Integration:** using energy storage to bridge transportation systems and renewable power grids.
 - **AI for Scientific and Engineering Systems:** LLM agents, neural architecture search, and data-driven modeling.
-- **AI for Engineering Systems:** LLM agents, neural architecture search, and data-driven modeling.
 
 {% include_relative _includes/publications.md %}
 
