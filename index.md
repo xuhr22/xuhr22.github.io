@@ -4,11 +4,11 @@ layout: homepage
 
 # About
 
-I am an incoming Ph.D. student in Electrical and Computer Engineering at the University of Michigan, Ann Arbor, where I will be advised by [Prof. Ziyou Song](https://ziyou.engin.umich.edu/).
+I am a first-year Ph.D. student in Electrical and Computer Engineering at the University of Michigan, Ann Arbor, advised by [Prof. Ziyou Song](https://ziyou.engin.umich.edu/).
 
-Before joining UMich, I am completing my B.S. in Electrical Engineering at Tsinghua University. My research interests lie broadly in energy storage systems, battery management systems, sustainable transportation, and grid integration. I am particularly interested in physics-based modeling, state estimation, optimal control, and data-driven methods for reliable and efficient energy systems.
+Before joining UMich, I received my B.S. in Electrical Engineering from Tsinghua University. My research interests broadly span energy storage systems, battery management systems, sustainable transportation, and grid integration. I am particularly interested in physics-based modeling, state estimation, optimal control, and data-driven methods for developing reliable and efficient energy systems.
 
-Beyond energy systems, I have also worked on AI agents for software debugging and neural architecture search for biological foundation models. These experiences have shaped my broader interest in building reliable, data-driven, and intelligent engineering systems.
+Beyond energy systems, I have also worked on AI agents for software debugging and neural architecture search for biological foundation models. These experiences have broadened my interests in building reliable, data-driven, and intelligent engineering systems.
 
 
 # Research Interests
